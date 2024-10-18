@@ -1,0 +1,12 @@
+{
+  "baseFontSize": 20,
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "SF Mono",
+  "theme": "obsidian",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "custom-padding"
+  ]
+}

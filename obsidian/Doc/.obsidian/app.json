@@ -1,0 +1,13 @@
+{
+  "readableLineLength": false,
+  "promptDelete": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showInlineTitle": false,
+  "showRibbon": true,
+  "strictLineBreaks": false,
+  "focusNewTab": true,
+  "smartIndentList": true,
+  "useTab": true,
+  "vimMode": false
+}
